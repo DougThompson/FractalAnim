@@ -4,7 +4,7 @@
 **Fractal Animation** is an application that create simple AVI animations of a Plasma/Cloud type "fractal" and of [Mandelbrot](http://en.wikipedia.org/wiki/Mandelbrot_set)/[Julia Set](http://en.wikipedia.org/wiki/Julia_set)/[Biomorph](http://en.wikipedia.org/wiki/Pickover_stalk) fractals.  This only sets a start and end point, at the moment, so the tool is a bit limited.
 
 ## Development Requirements ##
-Visual Studio 2010, C#, .NET Framework 4.0.
+Visual Studio 2010, C#, .NET Framework 3.5.
 
 ## TODO (not in any particular order ;) ) ##
 * Add code comments
